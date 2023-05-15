@@ -3,7 +3,7 @@ import { Button, Col, Form, Row } from "react-bootstrap";
 
 
 const Filter = ({ filters, setFilters }) => {
-  const launchYears = Array.from({ length: 2025 - 2006 }, (_, i) => 2006 + i);
+  const launchYears = Array.from({ length: 2021 - 2006 }, (_, i) => 2006 + i);
   const successOptions = ["true", "false"];
 
   const handleFilterChange = (name, value) => {
