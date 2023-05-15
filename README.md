@@ -92,12 +92,7 @@
 ![App Screenshot 8](https://i.postimg.cc/2yDZyBN4/React-App-Brave-15-05-2023-15-44-46.png)
 
 
-https://i.postimg.cc/JhsJ2LQB/React-App-Brave-15-05-2023-15-43-33.png
-https://i.postimg.cc/L4tP7vjv/React-App-Brave-15-05-2023-15-43-43.png
-https://i.postimg.cc/br92tNq4/React-App-Brave-15-05-2023-15-43-47.png
-https://i.postimg.cc/hPKmqxrn/React-App-Brave-15-05-2023-15-44-09.png
-https://i.postimg.cc/KzLTmDwG/React-App-Brave-15-05-2023-15-44-22.png
-https://i.postimg.cc/2yDZyBN4/React-App-Brave-15-05-2023-15-44-46.png
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Priyanshu9898/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshumalaviya/)
