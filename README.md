@@ -81,16 +81,15 @@
 
 ![App Screenshot 1](https://i.postimg.cc/JhsJ2LQB/React-App-Brave-15-05-2023-15-43-33.png)
 
-![App Screenshot 4](https://i.postimg.cc/L4tP7vjv/React-App-Brave-15-05-2023-15-43-43.png)
+![App Screenshot 2](https://i.postimg.cc/L4tP7vjv/React-App-Brave-15-05-2023-15-43-43.png)
 
-![App Screenshot 6](https://i.postimg.cc/br92tNq4/React-App-Brave-15-05-2023-15-43-47.png)
+![App Screenshot 3](https://i.postimg.cc/br92tNq4/React-App-Brave-15-05-2023-15-43-47.png)
 
-![App Screenshot 2](https://i.postimg.cc/hPKmqxrn/React-App-Brave-15-05-2023-15-44-09.png)
+![App Screenshot 4](https://i.postimg.cc/hPKmqxrn/React-App-Brave-15-05-2023-15-44-09.png)
 
-![App Screenshot 7](https://i.postimg.cc/KzLTmDwG/React-App-Brave-15-05-2023-15-44-22.png)
+![App Screenshot 5](https://i.postimg.cc/KzLTmDwG/React-App-Brave-15-05-2023-15-44-22.png)
 
-![App Screenshot 8](https://i.postimg.cc/2yDZyBN4/React-App-Brave-15-05-2023-15-44-46.png)
-
+![App Screenshot 6](https://i.postimg.cc/2yDZyBN4/React-App-Brave-15-05-2023-15-44-46.png)
 
 
 ## 🔗 Links
