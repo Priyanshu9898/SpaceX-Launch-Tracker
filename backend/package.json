@@ -16,8 +16,7 @@
   "type": "module",
   "scripts": {
     "server": "nodemon index.js",
-    "client": "npm start --prefix .././frontend ",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "dev": "node app.js"
   },
   "keywords": [],
   "author": "",
